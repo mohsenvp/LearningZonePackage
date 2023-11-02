@@ -10,6 +10,5 @@ import Foundation
 public struct SDK{
     public static func doSomeWork(){
         print("This is Learning zone package")
-        
     }
 }
